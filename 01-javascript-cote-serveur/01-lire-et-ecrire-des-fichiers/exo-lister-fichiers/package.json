@@ -1,0 +1,13 @@
+{
+  "name": "exo-lister-fichiers",
+  "version": "1.0.0",
+  "description": "🔍 [Vidéo](https://youtu.be/cT6b6_XzFmI?si=9P-Rw3E2D7npgma4&t=1296)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

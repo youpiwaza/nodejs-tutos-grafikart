@@ -1,0 +1,16 @@
+{
+  "name": "01-lire-et-ecrire-des-fichiers",
+  "version": "1.0.0",
+  "description": "🔍 [Vidéo](https://www.youtube.com/watch?v=cT6b6_XzFmI)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "volta": {
+    "node": "20.6.0"
+  }
+}
